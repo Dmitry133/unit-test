@@ -1,1 +1,2 @@
-import './js/health';
+import './js/healthStatus';
+import './js/healthStatusRate';
